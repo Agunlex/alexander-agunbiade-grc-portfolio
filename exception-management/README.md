@@ -1,3 +1,4 @@
+![Exception vs Issue Flowchart](../images/flowchart1.png)
 Exception Management Framework:
 
 This section demonstrates structured governance decision logic for differentiating:
